@@ -6,6 +6,12 @@ This is a simple example pubsub implentation using Go channels and goroutines.
 
 
 ## Run the program
+
+```sh
+go run main.go
+```
+
+Or
 simply build the image with the dockerfile.
 
 ```sh
